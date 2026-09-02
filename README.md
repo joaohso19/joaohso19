@@ -1,4 +1,6 @@
-<img src="https://media1.tenor.com/m/ua_hWLSrTy4AAAAd/obito-sharingan.gif" width="100%">
+<img src="https://media1.tenor.com/m/ua_hWLSrTy4AAAAd/obito-sharingan.gif" 
+     style="width: 100%; height: 200px; object-fit: cover; object-position: center;" 
+     alt="Banner Obito Sharingan">
 <!--
 **joaohso19/joaohso19** is a ✨ _special_ ✨ repository b2644-anime-gifecause its `README.md` (this file) appears on your GitHub profile.
 
