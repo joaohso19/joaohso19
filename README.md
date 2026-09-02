@@ -1,4 +1,4 @@
-<img src="<img width="498" height="280" alt="sasuke-banner-sasuke" src="https://github.com/user-attachments/assets/1e75700c-ac24-436c-b38b-a093f3c8d604" />
+<img width="498" height="280" alt="sasuke-banner-sasuke" src="https://github.com/user-attachments/assets/1e75700c-ac24-436c-b38b-a093f3c8d604" />
 " alt="Banner do Perfil" width="100%">
 
 <!--
