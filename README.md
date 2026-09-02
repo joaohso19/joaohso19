@@ -1,7 +1,7 @@
-<img src="GsxjYaeWoAABhfg.jpg" alt="Banner do Perfil" width="100%">
+<img src="2644-anime-gif.gif" alt="Banner do Perfil" width="100%">
 
 <!--
-**joaohso19/joaohso19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joaohso19/joaohso19** is a ✨ _special_ ✨ repository b2644-anime-gifecause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
