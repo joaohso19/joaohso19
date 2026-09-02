@@ -1,4 +1,5 @@
-<img src="GsxjYaeWoAABhfg.jpg" alt="Banner do Perfil" width="100%">
+<img src="<img width="500" height="176" alt="2644-anime-gif" src="https://github.com/user-attachments/assets/b2408523-c1ec-400c-a259-56bf97c46a2d" />
+" alt="Banner do Perfil" width="100%">
 
 <!--
 **joaohso19/joaohso19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
