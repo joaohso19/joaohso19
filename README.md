@@ -1,4 +1,4 @@
-<img src="https://tenor.com/pt-BR/view/cool-colded-cold-bad-sharingan-gif-5545204756924820818.gif" alt="Sasuke" width="100%" height="180px" style="object-fit: cover;">
+<img src="https://media1.tenor.com/m/TPSGWL9PbVIAAAAC/cool-colded.gif" alt="Sasuke" width="100%" height="180px" style="object-fit: cover;">
 <!--
 **joaohso19/joaohso19** is a ✨ _special_ ✨ repository b2644-anime-gifecause its `README.md` (this file) appears on your GitHub profile.
 
