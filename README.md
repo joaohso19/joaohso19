@@ -1,5 +1,4 @@
-<img width="498" height="280" alt="sasuke-banner-sasuke" src="https://github.com/user-attachments/assets/1e75700c-ac24-436c-b38b-a093f3c8d604" />
-" alt="Banner do Perfil" width="100%">
+<img src="https://github.com/user-attachments/assets/1e75700c-ac24-436c-b38b-a093f3c8d604" alt="sasuke-banner-sasuke" width="100%">
 
 <!--
 **joaohso19/joaohso19** is a ✨ _special_ ✨ repository b2644-anime-gifecause its `README.md` (this file) appears on your GitHub profile.
