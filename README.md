@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/ua_hWLSrTy4AAAAd/obito-sharingan.gif" alt="Banner Obito Sharingan" width="100%" height="200" style="object-fit: cover;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29uZmFqM3M3ZzV4Z3Rhd282MXl2bHIza3dmaTZ0Nnl6aHI3ZzY3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3fNmJ20ErpkjK/giphy.gif" alt="Banner Obito Sharingan" width="100%" height="200" style="object-fit: cover;">
 </p>
 <!--
 **joaohso19/joaohso19** is a ✨ _special_ ✨ repository b2644-anime-gifecause its `README.md` (this file) appears on your GitHub profile.
