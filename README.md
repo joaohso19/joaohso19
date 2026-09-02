@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/lW7uWpMZVxQAAAAC/obito-uchiha-mangekyou-sharingan.gif" alt="Obito" width="400">
-</p>
+<img src="https://media1.tenor.com/m/X_wN9tGZ86MAAAAC/obito-uchiha-obito.gif" width="100%">
 <!--
 **joaohso19/joaohso19** is a ✨ _special_ ✨ repository b2644-anime-gifecause its `README.md` (this file) appears on your GitHub profile.
 
