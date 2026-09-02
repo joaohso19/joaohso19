@@ -1,4 +1,4 @@
-<img src="https://pfps.gg/banners/sasuke" alt="Banner do Perfil" width="100%">
+<img src="https://media1.tenor.com/m/UirCXghTDQUAAAAC/sasuke.gif" alt="Banner do Perfil" width="100%">
 
 <!--
 **joaohso19/joaohso19** is a ✨ _special_ ✨ repository b2644-anime-gifecause its `README.md` (this file) appears on your GitHub profile.
